@@ -1,4 +1,7 @@
 HOST=0.0.0.0
 PORT=10000
+VPS_HOST=https://vps-website--frankdavid00202.replit.app
+VPS_PORT=443
+VPS_API_KEY=frank-vps-key-123
 ADMIN_USER=admin
 ADMIN_PASS=Frank123
